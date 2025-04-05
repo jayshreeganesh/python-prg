@@ -4,7 +4,7 @@ num = int(input("Enter a number to obtain Fibonacci Sequence : "))
 
 if num == 1:
     print(1)
-elif num > 1:
+else:
     print(a)
     print(b)
     for i in range(2,num):
