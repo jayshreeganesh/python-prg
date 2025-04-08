@@ -7,7 +7,7 @@ for i in range(1,100):
     if i % num == 0:
         print(i)
 
-# Solution 2 - using listlambda function and filter
+# Solution 2 - using list, lambda function and filter
 
 # l = [13,45,23,26,56,34]
 l = [39,48,26,98,33,67,87]
