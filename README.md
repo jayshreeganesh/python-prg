@@ -28,3 +28,4 @@
 | 24 | ASCII Value of Character                                       | [View](https://www.online-python.com/MXA4nlFKbz) |
 | 25 | HCF/GCD of Two Numbers                                         | [View](https://www.online-python.com/pc4y0PgjvR) |
 | 26 | Make a Simple Calculator                                       | [View](https://www.online-python.com/vm5iHIlwVb) |
+| 27 | Shuffle Deck of Cards                                          | [View](https://www.online-python.com/Haf8MDlXtj) |
