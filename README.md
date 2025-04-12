@@ -27,3 +27,4 @@
 | 23 | Convert Decimal to Binary, Octal, and Hexadecimal              | [View](https://www.online-python.com/eMoQabm6cI) |
 | 24 | ASCII Value of Character                                       | [View](https://www.online-python.com/MXA4nlFKbz) |
 | 25 | HCF/GCD of Two Numbers                                         | [View](https://www.online-python.com/pc4y0PgjvR) |
+| 26 | Make a Simple Calculator                                       | [View](https://www.online-python.com/vm5iHIlwVb) |
