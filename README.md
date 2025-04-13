@@ -1,4 +1,4 @@
-## 📚 Python Basic Programs Collection
+## 📚 Python Basic Programs Collection (From WSCube Tech)
 
 | #  | Program Title                                                  | Link |
 |----|----------------------------------------------------------------|------|
