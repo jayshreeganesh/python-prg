@@ -31,3 +31,4 @@
 | 27 | Shuffle Deck of Cards                                          | [View](https://www.online-python.com/Haf8MDlXtj) |
 | 28 | Display Calendar                                               | [View](https://www.online-python.com/QUwxiRlsek) |
 | 29 | Display Fibonacci Sequence Using Recursion                     | [View](https://www.online-python.com/xqoTpF4hsC) |
+| 30 | Find the Sum of Natural Numbers Using Recursion                | [View](https://www.online-python.com/JcOwx8j6np) |
