@@ -35,3 +35,4 @@
 | 31 | Find Factorial of Number Using Recursion                       | [View](https://www.online-python.com/O4kdsHmPb5) |
 | 32 | Convert Decimal to Binary Using Recursion                      | [View](https://www.online-python.com/XAzYdItsEn) |
 | 33 | Add Two Matrices                                               | [View](https://www.online-python.com/rhvlFp9BPo) |
+| 34 | Transpose a Matrix                                             | [View](https://www.online-python.com/Va9JyY6Hqi) |
