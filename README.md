@@ -37,3 +37,4 @@
 | 33 | Add Two Matrices                                               | [View](https://www.online-python.com/rhvlFp9BPo) |
 | 34 | Transpose a Matrix                                             | [View](https://www.online-python.com/Va9JyY6Hqi) |
 | 35 | Check Whether a String is Palindrome or Not                    | [View](https://www.online-python.com/P6gz7yvcOM) |
+| 36 | Remove Punctuations From a String                              | [View](https://www.online-python.com/idvTsHCmWj) |
