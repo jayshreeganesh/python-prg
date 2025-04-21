@@ -41,4 +41,5 @@
 | 37 | Multiply Two Matrices                                          | [View](https://www.online-python.com/4ZqoG6CkVx) |
 | 38 | Sort Words in Alphabetic Order (A B C)                         | [View](https://www.online-python.com/Oi1aDYtMqK) |
 | 39 | Illustrate Different Set Operations                            | [View](https://www.online-python.com/Pef6ym7T0Z) |
+| 40 | Count the Number of Each Vowel                                 | [View](https://www.online-python.com/qWdxIM3Rnp) |
 
