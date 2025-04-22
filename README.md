@@ -43,4 +43,7 @@
 | 39 | Illustrate Different Set Operations                            | [View](https://www.online-python.com/Pef6ym7T0Z) |
 | 40 | Count the Number of Each Vowel                                 | [View](https://www.online-python.com/qWdxIM3Rnp) |
 | 41 | Find the Size (Resolution) of an Image                         | [View](https://www.online-python.com/rHfcRdgw9P) |
+| 42 | How to Merge Two Dictionaries?                                 | [View](https://www.online-python.com/wQcz9WxfRV) |
+|    |                                                                | [View](https://www.programiz.com/online-compiler/9I9S5zmFZbSRl) |
+
 
