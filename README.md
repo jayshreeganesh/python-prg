@@ -45,5 +45,6 @@
 | 41 | Find the Size (Resolution) of an Image                         | [View](https://www.online-python.com/rHfcRdgw9P) |
 | 42 | How to Merge Two Dictionaries?                                 | [View](https://www.online-python.com/wQcz9WxfRV) |
 |    |                                                                | [View](https://www.programiz.com/online-compiler/9I9S5zmFZbSRl) |
+| 43 | Safely Create a Nested Directory                               | [View](https://www.online-python.com/yzAl4Gqmg6) |
 
 
