@@ -47,5 +47,6 @@
 |    |                                                                | [View](https://www.programiz.com/online-compiler/9I9S5zmFZbSRl) |
 | 43 | Safely Create a Nested Directory                               | [View](https://www.online-python.com/yzAl4Gqmg6) |
 | 44 | Accessing Index of List using for Loop                         | [View](https://www.online-python.com/4ZQIxrjT6X) |
+| 45 | Slicing on List                                                | [View](https://www.online-python.com/0HzmTGtQkL) |
 
 
