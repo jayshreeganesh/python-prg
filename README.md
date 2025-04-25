@@ -48,5 +48,6 @@
 | 43 | Safely Create a Nested Directory                               | [View](https://www.online-python.com/yzAl4Gqmg6) |
 | 44 | Accessing Index of List using for Loop                         | [View](https://www.online-python.com/4ZQIxrjT6X) |
 | 45 | Slicing on List                                                | [View](https://www.online-python.com/0HzmTGtQkL) |
+| 46 | Iterate Over Dictionaries Using For Loop                       | [View](https://www.online-python.com/YPUfvm7SGn) |
 
 
