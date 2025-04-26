@@ -49,5 +49,6 @@
 | 44 | Accessing Index of List using for Loop                         | [View](https://www.online-python.com/4ZQIxrjT6X) |
 | 45 | Slicing on List                                                | [View](https://www.online-python.com/0HzmTGtQkL) |
 | 46 | Iterate Over Dictionaries Using For Loop                       | [View](https://www.online-python.com/YPUfvm7SGn) |
+| 47 | Sort a Dictionary by Value                                     | [View](https://www.online-python.com/KaEgvUTSQm) |
 
 
