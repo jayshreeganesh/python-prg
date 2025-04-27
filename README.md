@@ -27,28 +27,28 @@
 | 23 | Convert Decimal to Binary, Octal, and Hexadecimal              | [View](https://www.online-python.com/eMoQabm6cI) |
 | 24 | ASCII Value of Character                                       | [View](https://www.online-python.com/MXA4nlFKbz) |
 | 25 | HCF/GCD of Two Numbers                                         | [View](https://www.online-python.com/pc4y0PgjvR) |
-| 26 | Make a Simple Calculator                                       | [View](https://www.online-python.com/vm5iHIlwVb) |
-| 27 | Shuffle Deck of Cards                                          | [View](https://www.online-python.com/Haf8MDlXtj) |
-| 28 | Display Calendar                                               | [View](https://www.online-python.com/QUwxiRlsek) |
-| 29 | Display Fibonacci Sequence Using Recursion                     | [View](https://www.online-python.com/xqoTpF4hsC) |
-| 30 | Find the Sum of Natural Numbers Using Recursion                | [View](https://www.online-python.com/JcOwx8j6np) |
-| 31 | Find Factorial of Number Using Recursion                       | [View](https://www.online-python.com/O4kdsHmPb5) |
-| 32 | Convert Decimal to Binary Using Recursion                      | [View](https://www.online-python.com/XAzYdItsEn) |
-| 33 | Add Two Matrices                                               | [View](https://www.online-python.com/rhvlFp9BPo) |
-| 34 | Transpose a Matrix                                             | [View](https://www.online-python.com/Va9JyY6Hqi) |
-| 35 | Check Whether a String is Palindrome or Not                    | [View](https://www.online-python.com/P6gz7yvcOM) |
-| 36 | Remove Punctuations From a String                              | [View](https://www.online-python.com/idvTsHCmWj) |
-| 37 | Multiply Two Matrices                                          | [View](https://www.online-python.com/4ZqoG6CkVx) |
-| 38 | Sort Words in Alphabetic Order (A B C)                         | [View](https://www.online-python.com/Oi1aDYtMqK) |
-| 39 | Illustrate Different Set Operations                            | [View](https://www.online-python.com/Pef6ym7T0Z) |
-| 40 | Count the Number of Each Vowel                                 | [View](https://www.online-python.com/qWdxIM3Rnp) |
-| 41 | Find the Size (Resolution) of an Image                         | [View](https://www.online-python.com/rHfcRdgw9P) |
-| 42 | How to Merge Two Dictionaries?                                 | [View](https://www.online-python.com/wQcz9WxfRV) |
-|    |                                                                | [View](https://www.programiz.com/online-compiler/9I9S5zmFZbSRl) |
-| 43 | Safely Create a Nested Directory                               | [View](https://www.online-python.com/yzAl4Gqmg6) |
-| 44 | Accessing Index of List using for Loop                         | [View](https://www.online-python.com/4ZQIxrjT6X) |
-| 45 | Slicing on List                                                | [View](https://www.online-python.com/0HzmTGtQkL) |
-| 46 | Iterate Over Dictionaries Using For Loop                       | [View](https://www.online-python.com/YPUfvm7SGn) |
-| 47 | Sort a Dictionary by Value                                     | [View](https://www.online-python.com/KaEgvUTSQm) |
+| 26 | Find the Factors of a Number                                   | [View](https://www.online-python.com/wShDxUl62c) |
+| 27 | Make a Simple Calculator                                       | [View](https://www.online-python.com/vm5iHIlwVb) |
+| 28 | Shuffle Deck of Cards                                          | [View](https://www.online-python.com/Haf8MDlXtj) |
+| 29 | Display Calendar                                               | [View](https://www.online-python.com/QUwxiRlsek) |
+| 30 | Display Fibonacci Sequence Using Recursion                     | [View](https://www.online-python.com/xqoTpF4hsC) |
+| 31 | Find the Sum of Natural Numbers Using Recursion                | [View](https://www.online-python.com/JcOwx8j6np) |
+| 32 | Find Factorial of Number Using Recursion                       | [View](https://www.online-python.com/O4kdsHmPb5) |
+| 33 | Convert Decimal to Binary Using Recursion                      | [View](https://www.online-python.com/XAzYdItsEn) |
+| 34 | Add Two Matrices                                               | [View](https://www.online-python.com/rhvlFp9BPo) |
+| 35 | Transpose a Matrix                                             | [View](https://www.online-python.com/Va9JyY6Hqi) |
+| 36 | Check Whether a String is Palindrome or Not                    | [View](https://www.online-python.com/P6gz7yvcOM) |
+| 37 | Remove Punctuations From a String                              | [View](https://www.online-python.com/idvTsHCmWj) |
+| 38 | Multiply Two Matrices                                          | [View](https://www.online-python.com/4ZqoG6CkVx) |
+| 39 | Sort Words in Alphabetic Order (A B C)                         | [View](https://www.online-python.com/Oi1aDYtMqK) |
+| 40 | Illustrate Different Set Operations                            | [View](https://www.online-python.com/Pef6ym7T0Z) |
+| 41 | Count the Number of Each Vowel                                 | [View](https://www.online-python.com/qWdxIM3Rnp) |
+| 42 | Find the Size (Resolution) of an Image                         | [View](https://www.online-python.com/rHfcRdgw9P) |
+| 43 | How to Merge Two Dictionaries?                                 | [View](https://www.online-python.com/wQcz9WxfRV) |
+| 44 | Safely Create a Nested Directory                               | [View](https://www.online-python.com/yzAl4Gqmg6) |
+| 45 | Accessing Index of List using for Loop                         | [View](https://www.online-python.com/4ZQIxrjT6X) |
+| 46 | Slicing on List                                                | [View](https://www.online-python.com/0HzmTGtQkL) |
+| 47 | Iterate Over Dictionaries Using For Loop                       | [View](https://www.online-python.com/YPUfvm7SGn) |
+| 48 | Sort a Dictionary by Value                                     | [View](https://www.online-python.com/KaEgvUTSQm) |
 
 
