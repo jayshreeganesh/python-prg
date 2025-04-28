@@ -50,5 +50,6 @@
 | 46 | Slicing on List                                                | [View](https://www.online-python.com/0HzmTGtQkL) |
 | 47 | Iterate Over Dictionaries Using For Loop                       | [View](https://www.online-python.com/YPUfvm7SGn) |
 | 48 | Sort a Dictionary by Value                                     | [View](https://www.online-python.com/KaEgvUTSQm) |
+| 49 | Check if a List is Empty                                       | [View](https://www.online-python.com/6FUXhqZHDA) |
 
 
