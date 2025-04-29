@@ -51,5 +51,6 @@
 | 47 | Iterate Over Dictionaries Using For Loop                       | [View](https://www.online-python.com/YPUfvm7SGn) |
 | 48 | Sort a Dictionary by Value                                     | [View](https://www.online-python.com/KaEgvUTSQm) |
 | 49 | Check if a List is Empty                                       | [View](https://www.online-python.com/6FUXhqZHDA) |
+| 50 | Catch Multiple Exception Handling                              | [View](https://www.online-python.com/ek9MmRLQ5H) |
 
 
