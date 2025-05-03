@@ -55,5 +55,7 @@
 | 51 | Copy Contents of One File to Another File                      | [View](https://www.online-python.com/ZFKUhag2wl) |
 | 52 | Concatenate Two List                                           | [View](https://www.online-python.com/Cfpl2THE78) |
 | 53 | Check if a Key is Already Present in a Dictionary              | [View](https://www.online-python.com/Ke6I1vuOgf) |
+| 54 | Parse a String to a Float or Integer                           | [View](https://www.online-python.com/Ke6I1vuOgf) |
+| 55 | Convert String to DateTime                                     | [View](https://www.online-python.com/pylKZgAQn0) |
 
 
