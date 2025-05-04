@@ -57,5 +57,9 @@
 | 53 | Check if a Key is Already Present in a Dictionary              | [View](https://www.online-python.com/Ke6I1vuOgf) |
 | 54 | Parse a String to a Float or Integer                           | [View](https://www.online-python.com/Ke6I1vuOgf) |
 | 55 | Convert String to DateTime                                     | [View](https://www.online-python.com/pylKZgAQn0) |
+| 56 | Get the Last Element of the List                               | [View](https://www.online-python.com/yShPRL3mZ1) |
+
+
+
 
 
