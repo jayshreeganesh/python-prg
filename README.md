@@ -58,6 +58,7 @@
 | 54 | Parse a String to a Float or Integer                           | [View](https://www.online-python.com/Ke6I1vuOgf) |
 | 55 | Convert String to DateTime                                     | [View](https://www.online-python.com/pylKZgAQn0) |
 | 56 | Get the Last Element of the List                               | [View](https://www.online-python.com/yShPRL3mZ1) |
+| 57 | Get a Substring of a String                                    | [View](https://www.online-python.com/gonjtdT5VX) |
 
 
 
