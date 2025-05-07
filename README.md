@@ -61,7 +61,8 @@
 | 57 | Get a Substring of a String                                    | [View](https://www.online-python.com/gonjtdT5VX) |
 | 58 | Print Output Without a Newline                                 | [View](https://www.online-python.com/5Gocat4VqH) |
 | 59 | Check if a String is a Valid Keyword or Not?                   | [View](https://www.online-python.com/3D20SIc4Ra) |
-sss
+| 60 | Iterators with Function                                        | [View](https://www.online-python.com/QW0PfL5273) |
+
 
 
 
