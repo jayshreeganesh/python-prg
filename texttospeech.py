@@ -1,6 +1,11 @@
 import gtts
 import playsound
 
+# pip install gtts
+# pip install gTTS
+# pip install playsound
+# pip install playsound==1.2.2
+
 # Hello, Welcome to WsCube Tech. How may I help you?
 # Ganapati Bappa Morya
 # Ganapati Bappa Morya, Pudhchya Varshi Lavkar Ya.
