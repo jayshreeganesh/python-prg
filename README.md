@@ -64,6 +64,7 @@
 | 60 | Iterators with Function                                        | [View](https://www.online-python.com/QW0PfL5273) |
 | 61 | List Comprehension                                             | [View](https://www.online-python.com/3EHfyOdTzR) |
 | 62 | Text to Speech (FREE) - How to Generate Your Own Voice         | [View](https://www.online-python.com/Zgh0bqjkIU) |
+| 63 | 15 Tips and Tricks to Write a Better Python Code               | [View](https://www.online-python.com/23EH0P8qu1) |
 
 
 
