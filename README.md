@@ -67,6 +67,7 @@
 | 63 | 15 Tips and Tricks to Write a Better Python Code               | [View](https://www.online-python.com/23EH0P8qu1) |
 | 64 | Voice Translator                                               | [View](https://www.online-python.com/U80NsarELx) |
 | 65 | Shorthand: If and If-Else Statement                            | [View](https://www.online-python.com/S5mRJbV7D6) |
+| 66 | Create Your Own AudioBook                                      | [View](https://www.online-python.com/F3lXxt1DM6) |
 
 
 
