@@ -69,6 +69,8 @@
 | 65 | Shorthand: If and If-Else Statement                            | [View](https://www.online-python.com/S5mRJbV7D6) |
 | 66 | Create Your Own AudioBook                                      | [View](https://www.online-python.com/F3lXxt1DM6) |
 | 67 | Rock Paper Scissors: Build a Game                              | [View](https://www.online-python.com/mVgzjQMYXL) |
+| 68 | All Programs, mini projcts and games                           | [View]() |
+| 69 | Anagrams Game: Build a Scrambled Word Game                     | [View](https://www.online-python.com/4SCZup7Eoj) |
 
 
 
