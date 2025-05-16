@@ -71,6 +71,7 @@
 | 67 | Rock Paper Scissors: Build a Game                              | [View](https://www.online-python.com/mVgzjQMYXL) |
 | 68 | All Programs, Mini Projects and Games                          | [View]() |
 | 69 | Anagrams Game: Build a Scrambled Word Game                     | [View](https://www.online-python.com/4SCZup7Eoj) |
+| 70 | Email Automation with Voice                                    | [View](https://www.online-python.com/wWjGeMKdLZ) |
 
 
 
