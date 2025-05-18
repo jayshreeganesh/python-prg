@@ -72,6 +72,8 @@
 | 68 | All Programs, Mini Projects and Games                          | [View]() |
 | 69 | Anagrams Game: Build a Scrambled Word Game                     | [View](https://www.online-python.com/4SCZup7Eoj) |
 | 70 | Email Automation with Voice                                    | [View](https://www.online-python.com/wWjGeMKdLZ) |
+| 71 | How to Take Multiple Inputs from the User                      | [View](https://www.online-python.com/oYjlMaWNTZ) |
+| 72 | Generators                                                     | [View](https://www.online-python.com/YRf2HmoGCJ) |
 
 
 
