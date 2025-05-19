@@ -74,6 +74,7 @@
 | 70 | Email Automation with Voice                                    | [View](https://www.online-python.com/wWjGeMKdLZ) |
 | 71 | How to Take Multiple Inputs from the User                      | [View](https://www.online-python.com/oYjlMaWNTZ) |
 | 72 | Generators                                                     | [View](https://www.online-python.com/YRf2HmoGCJ) |
+| 73 | Build Your Own Currency Converter App                          | [View](https://www.online-python.com/XM3KbgpLY2) |
 
 
 
