@@ -75,6 +75,7 @@
 | 71 | How to Take Multiple Inputs from the User                      | [View](https://www.online-python.com/oYjlMaWNTZ) |
 | 72 | Generators                                                     | [View](https://www.online-python.com/YRf2HmoGCJ) |
 | 73 | Build Your Own Currency Converter App                          | [View](https://www.online-python.com/XM3KbgpLY2) |
+| 74 | Instagram Spam Bot using Selenium Automation - Tricks          | [View](https://www.online-python.com/Q9UgyF8vPR) |
 
 
 
