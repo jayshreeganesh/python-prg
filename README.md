@@ -76,6 +76,7 @@
 | 72 | Generators                                                     | [View](https://www.online-python.com/YRf2HmoGCJ) |
 | 73 | Build Your Own Currency Converter App                          | [View](https://www.online-python.com/XM3KbgpLY2) |
 | 74 | Instagram Spam Bot using Selenium Automation - Tricks          | [View](https://www.online-python.com/Q9UgyF8vPR) |
+| 75 | How to Read a File Line by Line Into a List?                   | [View](https://www.online-python.com/1v2NX6BK5J) |
 
 
 
