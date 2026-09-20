@@ -1,4 +1,4 @@
-## 📚 Python Basic Programs Collection (Reference : WSCube Tech)
+## 📚 Python Basic Programs Collection
 
 | #  | Program Title                                                  | Link |
 |----|----------------------------------------------------------------|------|
@@ -79,9 +79,3 @@
 | 75 | How to Read a File Line by Line Into a List?                   | [View](https://www.online-python.com/1v2NX6BK5J) |
 | 76 | How to Delete an Element From a Dictionary?                    | [View](https://www.online-python.com/VmqAKFzTtQ) |
 | 77 | How to Check If a String Is a Number (Float)?                  | [View](https://www.online-python.com/kQ7OwS2B5Z) |
-
-
-
-
-
-
